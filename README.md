@@ -37,7 +37,7 @@ Open **(log-len-x.vercel.app)** in your browser.
 
 ## Project Presentation
 
-📄 **[View our 6-slide Hackathon Presentation (PDF)](docs/Log-LenX-Presentation.pdf)**
+📄 **[View our 6-slide Hackathon Presentation (PDF)](https://linkjar.to/2d28fb92/)**
 
 The presentation covers the problem, solution, workflow, prototype, expected impact, and future scope.
 
