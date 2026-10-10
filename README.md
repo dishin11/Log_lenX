@@ -1,4 +1,6 @@
 # Log-LenX
+<img width="2928" height="1602" alt="image" src="https://github.com/user-attachments/assets/20b0d198-4e82-499c-b6b9-846c18269c28" />
+
 
 **Find the signal. Prioritize what matters.**
 
