@@ -31,7 +31,7 @@ Log-LenX analyzes raw application logs and presents a clear incident overview wi
 
 ## Run Locally
 
-Open **log-len-x.vercel.app** in your browser.
+Open **(log-len-x.vercel.app)** in your browser.
 
 ## Project Presentation
 
@@ -46,11 +46,11 @@ Team ID: 2392608226-Hack Heist
 
 | Team Member | USN |
 
- Dharsandia Dishin :- 2392608226
- Sayak Mitra :- 2392608050
- Aryan Singh :- 2392608128
- Shahib Alam Saifi :- 2392608179
- Shivam Kumar Gupta :- 2392608007
+ Dharsandia Dishin :- 2392608226 |
+ Sayak Mitra :- 2392608050 |
+ Aryan Singh :- 2392608128 |
+ Shahib Alam Saifi :- 2392608179 |
+ Shivam Kumar Gupta :- 2392608007 |
 
 ## Repository
 
